@@ -1,0 +1,5 @@
+git checkout dev
+echo "print('Hello from dev branch')" > dev_script.py
+git add .
+git commit -m "Add dev_script.py to dev branch"
+git push
