@@ -1,0 +1,4 @@
+git checkout main
+git add .
+git commit -m "Initial commit with main.py and README.md"
+git push
